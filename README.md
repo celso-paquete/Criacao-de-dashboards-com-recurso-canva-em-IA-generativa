@@ -30,6 +30,8 @@ Criação dashboards com recurso canva de IA generativa , projecto do curso de A
 * Gráfico de Colunas do numero de casos  por município
 * Gráfico de linha do número de casos  por semana
 
+### Apresentar insigths de epidemiologia e saúde publica
+Acrescente ao Dashboard alguns insigths de epidemiologia e saúde publica para os tomadores de decisão sobre os dados apresentados pensando que esta é uma doença infectocontagiosa com tranmissão de pessoa para pessoa em áreas com pouco saneamento basico.
 
 Sobre a aparencia e o ui/ux, se baseie em modelos de dashboards do power BI, use a paleta de cores #8fbfec #64a6e3 #3e8fd8 #0960ae seja facil de usar pelos tomadores de decisões.
 
